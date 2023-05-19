@@ -7,7 +7,7 @@ package studentlistwed;
 
 /**
  * Class that creates an Array of Students and prints each student's name.
- * @author dancye, 2023
+ * @author Azadveer, 2023
  */
 public class StudentList 
 {
